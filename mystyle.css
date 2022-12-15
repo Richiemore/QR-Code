@@ -1,0 +1,29 @@
+
+body 
+{
+background-color: rgb(224, 225, 230);
+}
+div.gallery 
+{
+  background: #fff;
+  margin: auto;
+
+   padding-top: 1%;
+  width: 220px;
+  text-align: center;
+ 
+  border-radius: 4%;
+
+}
+
+div.gallery img {
+  width: 90%;
+  height: auto;
+  border-radius: 4%;
+ 
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
